@@ -1,0 +1,25 @@
+<resources>
+
+    <dimen name="dimenScoreBorderRadius">20dp</dimen>
+    <dimen name="dimenListBorderRadius">10dp</dimen>
+    <dimen name="dimenGoalBorderRadius">10dp</dimen>
+
+    <dimen name="dimenPlayerOffset">32dp</dimen>
+    <dimen name="dimenPlayerWidth">60dp</dimen>
+    <dimen name="dimenPlayerHeight">82dp</dimen> // 50 + dimenPlayerOffset
+    <dimen name="dimenPlayerGap">20dp</dimen>
+    <dimen name="dimenBall">58dp</dimen>
+
+    <dimen name="dimenFlagHeightL">35dp</dimen>
+    <dimen name="dimenFlagHeightB">55dp</dimen>
+    <dimen name="dimenVsHeightL">20dp</dimen>
+    <dimen name="dimenVsHeightB">33dp</dimen>
+    <dimen name="dimenGoal">30dp</dimen>
+
+    <dimen name="dimenButtonHeight">80dp</dimen>
+
+    <dimen name="dimenFlagPadding">10dp</dimen>
+    <dimen name="dimenSelectBorder">5dp</dimen>
+    <dimen name="dimenStartFlagHeight">75dp</dimen> // dimenFlagHeightB + 2 * dimenFlagPadding
+
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Esportebet360 - Apostas</string>
+    <string name="totalScore">Score: %d</string>
+    <string name="playScore">%d : %d</string>
+
+    <string name="title_start">Selecionar equipes</string>
+    <string name="title_bet_quarterfinal">Quarterfinal</string>
+    <string name="title_bet_semifinal">Semifinal</string>
+    <string name="title_bet_final">Final</string>
+    <string name="title_result_quarterfinal">Quarterfinal Result</string>
+    <string name="title_result_semifinal">Semifinal Result</string>
+    <string name="title_result_final">Final Result</string>
+
+    <string name="subtitle_score">Fazer uma aposta nos resultados do jogo de outras equipes</string>
+
+    <string name="win">Win</string>
+    <string name="lose">Lose</string>
+    <string name="Load">Loading…</string>
+</resources>

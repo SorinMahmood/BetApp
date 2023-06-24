@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366188826062",
+    "project_id": "esportebet360---apostas",
+    "storage_bucket": "esportebet360---apostas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366188826062:android:b64c41b47f2b59ba282f9f",
+        "android_client_info": {
+          "package_name": "com.esportebet365.apostasonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366188826062-nl8jkhsbj07m87nrsr64pro08lrg3mgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMdhvOSn17LCNQG59o59bfaAgtEBJP4iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366188826062-nl8jkhsbj07m87nrsr64pro08lrg3mgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

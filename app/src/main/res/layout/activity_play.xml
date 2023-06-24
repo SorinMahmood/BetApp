@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_field"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/back_field"
+    tools:context=".PlayActivity">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:paddingLeft="22dp"
+        android:paddingRight="22dp"
+        android:background="@drawable/back_score"
+        android:layout_gravity="end">
+
+        <TextView
+            android:id="@+id/tv_score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/colorScoreText"
+            android:textSize="20dp"
+            tools:text="@string/playScore"/>
+
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/iv_ball"
+        android:layout_width="@dimen/dimenBall"
+        android:layout_height="@dimen/dimenBall"
+        android:src="@drawable/ball"/>
+
+    <ImageView
+        android:id="@+id/iv_player_top"
+        android:layout_width="@dimen/dimenPlayerWidth"
+        android:layout_height="@dimen/dimenPlayerHeight"
+        android:paddingTop="@dimen/dimenPlayerOffset"
+        android:src="@drawable/player_top"/>
+
+    <ImageView
+        android:id="@+id/iv_player_bottom"
+        android:layout_width="@dimen/dimenPlayerWidth"
+        android:layout_height="@dimen/dimenPlayerHeight"
+        android:paddingBottom="@dimen/dimenPlayerOffset"
+        android:src="@drawable/player_bottom"/>
+
+</RelativeLayout>
